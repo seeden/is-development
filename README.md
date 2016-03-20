@@ -6,6 +6,7 @@ Detect if you are in the DEVELOPMENT mode of the nodejs
 
 [npm-image]: https://img.shields.io/npm/v/is-development.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/is-development
+[github-url]: https://github.com/seeden/is-development
 
 # Support us
 

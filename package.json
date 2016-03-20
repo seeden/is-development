@@ -1,6 +1,6 @@
 {
   "name": "is-development",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Detect if you are in development mode of the nodejs",
   "author": {
     "name": "Zlatko Fedor",
