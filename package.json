@@ -1,0 +1,32 @@
+{
+  "name": "is-development",
+  "version": "1.0.0",
+  "description": "Detect if you are in development mode of the nodejs",
+  "author": {
+    "name": "Zlatko Fedor",
+    "email": "zfedor@gmail.com",
+    "url": "http://www.cherrysro.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seeden/is-development.git"
+  },
+  "keywords": [
+    "development",
+    "node",
+    "nodejs"
+  ],
+  "private": false,
+  "license": "MIT",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  }
+}
