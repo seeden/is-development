@@ -1,6 +1,6 @@
 {
   "name": "is-development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if you are in development mode of the nodejs",
   "author": {
     "name": "Zlatko Fedor",
@@ -22,11 +22,8 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {},
-  "devDependencies": {
-  },
-  "peerDependencies": {
-  }
+  "devDependencies": {},
+  "peerDependencies": {}
 }
